@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Selection.unity
-    guid: 3b43f8218a4fed64e9431d98ea546a90
+    path: Assets/Scenes/Welcome.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/Michelle.unity
     guid: 33f1c70fe50c2f9409ba23617fe84c16
@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Kaya.unity
     guid: 49f96077d10c7db478650655473cde01
+  - enabled: 1
+    path: Assets/Scenes/Selection.unity
+    guid: 3b43f8218a4fed64e9431d98ea546a90
   m_configObjects: {}
