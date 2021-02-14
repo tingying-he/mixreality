@@ -596,6 +596,7 @@ GameObject:
   - component: {fileID: 823845701}
   - component: {fileID: 823845700}
   - component: {fileID: 823845699}
+  - component: {fileID: 823845703}
   m_Layer: 0
   m_Name: MichelleButton
   m_TagString: Untagged
@@ -727,6 +728,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 823845697}
   m_CullTransparentMesh: 0
+--- !u!114 &823845703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 823845697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6fe9346adc1d7341a4efb22852d589e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mButton: {fileID: 823845700}
+  unlock: {fileID: 21300000, guid: 6978343c9d1f62c4e98cb94ae0d8b6c8, type: 3}
 --- !u!1 &989250339
 GameObject:
   m_ObjectHideFlags: 0
@@ -740,6 +755,7 @@ GameObject:
   - component: {fileID: 989250342}
   - component: {fileID: 989250341}
   - component: {fileID: 989250344}
+  - component: {fileID: 989250345}
   m_Layer: 0
   m_Name: KayaButton
   m_TagString: Untagged
@@ -871,6 +887,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mButton: {fileID: 989250341}
+--- !u!114 &989250345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 989250339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7d458b4363d18947bcecb968ac3efba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mButton: {fileID: 989250341}
+  unlock: {fileID: 21300000, guid: ec4c742133b91a2439882697065bc830, type: 3}
 --- !u!1 &1037531690
 GameObject:
   m_ObjectHideFlags: 0
@@ -884,6 +914,7 @@ GameObject:
   - component: {fileID: 1037531693}
   - component: {fileID: 1037531692}
   - component: {fileID: 1037531695}
+  - component: {fileID: 1037531696}
   m_Layer: 0
   m_Name: MaryButton
   m_TagString: Untagged
@@ -1015,6 +1046,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mButton: {fileID: 1037531692}
+--- !u!114 &1037531696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1037531690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 331c4cdf6ed0a4548a95ccdec9dbfde6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mButton: {fileID: 1037531692}
+  unlock: {fileID: 21300000, guid: 52784c08873e2c840b356ed73f9ea731, type: 3}
 --- !u!1 &1222817473
 GameObject:
   m_ObjectHideFlags: 0

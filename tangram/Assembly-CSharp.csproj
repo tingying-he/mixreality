@@ -36,6 +36,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\ChangeTest.cs" />
+     <Compile Include="Assets\Scripts\LockChangeKaya.cs" />
+     <Compile Include="Assets\Scripts\LockChangeMary.cs" />
+     <Compile Include="Assets\Scripts\LockChangeMiche.cs" />
+     <Compile Include="Assets\Scripts\LockStatus.cs" />
      <Compile Include="Assets\Scripts\SceneChange.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
