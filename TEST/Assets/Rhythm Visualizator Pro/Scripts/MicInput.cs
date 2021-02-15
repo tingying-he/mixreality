@@ -8,7 +8,7 @@ using UnityEngine.UI;
 public class MicInput : MonoBehaviour
 {
 
-    public Text text;
+    // public Text text;
 
     void Start()
     {
@@ -20,7 +20,7 @@ public class MicInput : MonoBehaviour
 
         }
 
-        text.text = "Hearing microphone";
+        // text.text = "Hearing microphone";
 
         Debug.Log("Microphone activated");
 
