@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\ButtonChange.cs" />
      <Compile Include="Assets\Scripts\ChangeTest.cs" />
      <Compile Include="Assets\Scripts\LockChangeKaya.cs" />
      <Compile Include="Assets\Scripts\LockChangeMary.cs" />
