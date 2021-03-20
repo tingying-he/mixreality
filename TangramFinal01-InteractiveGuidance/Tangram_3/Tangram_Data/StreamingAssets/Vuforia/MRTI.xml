@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Step2" size="0.086000 0.122908" />
+    <ImageTarget name="Step3" size="0.143000 0.155672" />
+    <ImageTarget name="Step1" size="0.071000 0.071000" />
+    <ImageTarget name="TT7" size="0.050000 0.050000" />
+    <ImageTarget name="TT5" size="0.035500 0.035145" />
+    <ImageTarget name="TT4" size="0.035500 0.035500" />
+    <ImageTarget name="TT2" size="0.071000 0.071000" />
+    <ImageTarget name="TT6" size="0.035500 0.035500" />
+    <ImageTarget name="TT3" size="0.075000 0.025000" />
+    <ImageTarget name="TT1" size="0.071000 0.071000" />
+    <ImageTarget name="T7" size="0.071000 0.071000" />
+    <ImageTarget name="T6" size="0.050000 0.050000" />
+    <ImageTarget name="T5" size="0.050000 0.049250" />
+    <ImageTarget name="T4" size="0.050000 0.050000" />
+    <ImageTarget name="T3" size="0.106000 0.035416" />
+    <ImageTarget name="T2" size="0.100000 0.100000" />
+    <ImageTarget name="T1" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
